@@ -2,129 +2,6 @@
   "date": "2022-04-03",
   "movies": [
     {
-      "Title": "Schindler's List",
-      "Year": "1993",
-      "Rated": "R",
-      "Released": "04 Feb 1994",
-      "Runtime": "195 min",
-      "Genre": "Biography, Drama, History",
-      "Director": "Steven Spielberg",
-      "Writer": "Thomas Keneally, Steven Zaillian",
-      "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley",
-      "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
-      "Language": "English, Hebrew, German, Polish, Latin",
-      "Country": "United States",
-      "Awards": "Won 7 Oscars. 91 wins & 49 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "94/100"
-        }
-      ],
-      "Metascore": "94",
-      "imdbRating": "8.9",
-      "imdbVotes": "1,307,427",
-      "imdbID": "tt0108052",
-      "Type": "movie",
-      "DVD": "12 Feb 2008",
-      "BoxOffice": "$96,898,818",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "1cd4"
-    },
-    {
-      "Title": "The Lord of the Rings: The Return of the King",
-      "Year": "2003",
-      "Rated": "PG-13",
-      "Released": "17 Dec 2003",
-      "Runtime": "201 min",
-      "Genre": "Action, Adventure, Drama",
-      "Director": "Peter Jackson",
-      "Writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
-      "Actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
-      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "Language": "English, Quenya, Old English, Sindarin",
-      "Country": "New Zealand, United States",
-      "Awards": "Won 11 Oscars. 209 wins & 124 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "9.0/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "93%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "94/100"
-        }
-      ],
-      "Metascore": "94",
-      "imdbRating": "9.0",
-      "imdbVotes": "1,765,286",
-      "imdbID": "tt0167260",
-      "Type": "movie",
-      "DVD": "25 May 2004",
-      "BoxOffice": "$378,251,207",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "8713"
-    },
-    {
-      "Title": "Pulp Fiction",
-      "Year": "1994",
-      "Rated": "R",
-      "Released": "14 Oct 1994",
-      "Runtime": "154 min",
-      "Genre": "Crime, Drama",
-      "Director": "Quentin Tarantino",
-      "Writer": "Quentin Tarantino, Roger Avary",
-      "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson",
-      "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "Language": "English, Spanish, French",
-      "Country": "United States",
-      "Awards": "Won 1 Oscar. 70 wins & 75 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.9/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "92%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "94/100"
-        }
-      ],
-      "Metascore": "94",
-      "imdbRating": "8.9",
-      "imdbVotes": "1,969,677",
-      "imdbID": "tt0110912",
-      "Type": "movie",
-      "DVD": "20 Aug 2002",
-      "BoxOffice": "$107,928,762",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "90a7"
-    },
-    {
       "Title": "The Lord of the Rings: The Fellowship of the Ring",
       "Year": "2001",
       "Rated": "PG-13",
@@ -205,47 +82,6 @@
       "Website": "N/A",
       "Response": "True",
       "id": "669b"
-    },
-    {
-      "Title": "Fight Club",
-      "Year": "1999",
-      "Rated": "R",
-      "Released": "15 Oct 1999",
-      "Runtime": "139 min",
-      "Genre": "Drama",
-      "Director": "David Fincher",
-      "Writer": "Chuck Palahniuk, Jim Uhls",
-      "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
-      "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-      "Language": "English",
-      "Country": "United States, Germany",
-      "Awards": "Nominated for 1 Oscar. 11 wins & 38 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.8/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "79%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "66/100"
-        }
-      ],
-      "Metascore": "66",
-      "imdbRating": "8.8",
-      "imdbVotes": "2,014,670",
-      "imdbID": "tt0137523",
-      "Type": "movie",
-      "DVD": "14 Oct 2003",
-      "BoxOffice": "$37,030,102",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "30d5"
     },
     {
       "Title": "Inception",
@@ -535,43 +371,6 @@
       "id": "802c"
     },
     {
-      "Title": "Seven Samurai",
-      "Year": "1954",
-      "Rated": "Not Rated",
-      "Released": "19 Nov 1956",
-      "Runtime": "207 min",
-      "Genre": "Action, Drama",
-      "Director": "Akira Kurosawa",
-      "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
-      "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
-      "Plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
-      "Language": "Japanese",
-      "Country": "Japan",
-      "Awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.6/10"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "98/100"
-        }
-      ],
-      "Metascore": "98",
-      "imdbRating": "8.6",
-      "imdbVotes": "337,182",
-      "imdbID": "tt0047478",
-      "Type": "movie",
-      "DVD": "05 Sep 2006",
-      "BoxOffice": "$318,649",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "b2c7"
-    },
-    {
       "Title": "It's a Wonderful Life",
       "Year": "1946",
       "Rated": "PG",
@@ -816,47 +615,6 @@
       "Website": "N/A",
       "Response": "True",
       "id": "6676"
-    },
-    {
-      "Title": "Star Wars",
-      "Year": "1977",
-      "Rated": "PG",
-      "Released": "25 May 1977",
-      "Runtime": "121 min",
-      "Genre": "Action, Adventure, Fantasy",
-      "Director": "George Lucas",
-      "Writer": "George Lucas",
-      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
-      "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vad",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "Won 7 Oscars. 63 wins & 29 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "92%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "90/100"
-        }
-      ],
-      "Metascore": "90",
-      "imdbRating": "8.6",
-      "imdbVotes": "1,312,386",
-      "imdbID": "tt0076759",
-      "Type": "movie",
-      "DVD": "06 Dec 2005",
-      "BoxOffice": "$460,998,507",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "e3d9"
     },
     {
       "Title": "Interstellar",
@@ -1673,47 +1431,6 @@
       "Website": "N/A",
       "Response": "True",
       "id": "33d2"
-    },
-    {
-      "Title": "Alien",
-      "Year": "1979",
-      "Rated": "R",
-      "Released": "22 Jun 1979",
-      "Runtime": "117 min",
-      "Genre": "Horror, Sci-Fi",
-      "Director": "Ridley Scott",
-      "Writer": "Dan O'Bannon, Ronald Shusett",
-      "Actors": "Sigourney Weaver, Tom Skerritt, John Hurt",
-      "Plot": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
-      "Language": "English",
-      "Country": "United Kingdom, United States",
-      "Awards": "Won 1 Oscar. 18 wins & 22 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.5/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "89/100"
-        }
-      ],
-      "Metascore": "89",
-      "imdbRating": "8.5",
-      "imdbVotes": "848,173",
-      "imdbID": "tt0078748",
-      "Type": "movie",
-      "DVD": "01 Jun 1999",
-      "BoxOffice": "$81,900,459",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "bf75"
     },
     {
       "Title": "Rear Window",
@@ -4745,47 +4462,6 @@
       "Website": "N/A",
       "Response": "True",
       "id": "e0f7"
-    },
-    {
-      "Title": "For a Few Dollars More",
-      "Year": "1965",
-      "Rated": "R",
-      "Released": "10 May 1967",
-      "Runtime": "132 min",
-      "Genre": "Western",
-      "Director": "Sergio Leone",
-      "Writer": "Sergio Leone, Fulvio Morsella, Luciano Vincenzoni",
-      "Actors": "Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",
-      "Plot": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
-      "Language": "Italian, English",
-      "Country": "Italy, Spain, West Germany",
-      "Awards": "2 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "91%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "74/100"
-        }
-      ],
-      "Metascore": "74",
-      "imdbRating": "8.3",
-      "imdbVotes": "249,702",
-      "imdbID": "tt0059578",
-      "Type": "movie",
-      "DVD": "01 Aug 2006",
-      "BoxOffice": "$15,000,000",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "9ab7"
     },
     {
       "Title": "Dangal",
@@ -9517,43 +9193,6 @@
       "id": "41ac"
     },
     {
-      "Title": "La Haine",
-      "Year": "1995",
-      "Rated": "Not Rated",
-      "Released": "23 Feb 1996",
-      "Runtime": "98 min",
-      "Genre": "Crime, Drama",
-      "Director": "Mathieu Kassovitz",
-      "Writer": "Mathieu Kassovitz",
-      "Actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
-      "Plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
-      "Language": "French",
-      "Country": "France, United States",
-      "Awards": "8 wins & 15 nominations",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "100%"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.1",
-      "imdbVotes": "166,656",
-      "imdbID": "tt0113247",
-      "Type": "movie",
-      "DVD": "17 Apr 2007",
-      "BoxOffice": "$280,859",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "4399"
-    },
-    {
       "Title": "Aladdin",
       "Year": "1992",
       "Rated": "G",
@@ -9634,47 +9273,6 @@
       "Website": "N/A",
       "Response": "True",
       "id": "01ad"
-    },
-    {
-      "Title": "Beauty and the Beast",
-      "Year": "1991",
-      "Rated": "G",
-      "Released": "22 Nov 1991",
-      "Runtime": "84 min",
-      "Genre": "Animation, Family, Fantasy",
-      "Director": "Gary Trousdale, Kirk Wise",
-      "Writer": "Linda Woolverton, Brenda Chapman, Chris Sanders",
-      "Actors": "Paige O'Hara, Robby Benson, Jesse Corti",
-      "Plot": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
-      "Language": "English, French",
-      "Country": "United States",
-      "Awards": "Won 2 Oscars. 31 wins & 32 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "94%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "95/100"
-        }
-      ],
-      "Metascore": "95",
-      "imdbRating": "8.1",
-      "imdbVotes": "438,320",
-      "imdbID": "tt0101414",
-      "Type": "movie",
-      "DVD": "06 Aug 2002",
-      "BoxOffice": "$218,967,620",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True",
-      "id": "6cd0"
     },
     {
       "Title": "Gandhi",
